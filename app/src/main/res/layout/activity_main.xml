@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:text="Aplicativo Escolar"
         android:textSize="30sp"
-        android:textColor="#000"
+        android:textColor="#E31656"
         android:layout_gravity="center_horizontal"
         />
 
